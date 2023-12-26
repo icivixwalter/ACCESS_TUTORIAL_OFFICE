@@ -20,10 +20,11 @@
 	"buffers":
 	[
 		{
-			"file": "README.md",
+			"file": "GUIDA_DAO_OFFICE_2000_OFFICE_2007/GUIDA_RIFERIMENTI_MODELLI_DAO.MD",
 			"settings":
 			{
-				"buffer_size": 234,
+				"buffer_size": 1980,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			},
 			"undo_stack":
@@ -117,7 +118,8 @@
 	},
 	"expanded_folders":
 	[
-		"/C/CASA/LINGUAGGI/ACCESS/ACCESS_PROGETTI_MDB/ACCESS_TUTORIAL_OFFICE"
+		"/C/CASA/LINGUAGGI/ACCESS/ACCESS_TUTORIAL_OFFICE",
+		"/C/CASA/LINGUAGGI/ACCESS/ACCESS_TUTORIAL_OFFICE/GUIDA_DAO_OFFICE_2000_OFFICE_2007"
 	],
 	"file_history":
 	[
@@ -192,7 +194,7 @@
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 31.0
 	},
 	"find_in_files":
 	{
@@ -235,20 +237,20 @@
 			[
 				{
 					"buffer": 0,
-					"file": "README.md",
+					"file": "GUIDA_DAO_OFFICE_2000_OFFICE_2007/GUIDA_RIFERIMENTI_MODELLI_DAO.MD",
 					"selected": true,
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 234,
+						"buffer_size": 1980,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								233,
-								233
+								1920,
+								1920
 							]
 						],
 						"settings":
@@ -270,7 +272,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 31.0
 	},
 	"input":
 	{
@@ -311,7 +313,7 @@
 	"project": "Project_Access_Tutorial.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 58.0
 	},
 	"save_all_on_build": false,
 	"select_file":
