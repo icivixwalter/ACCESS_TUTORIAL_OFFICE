@@ -10,3 +10,8 @@ Tutorial di acces
 			---> @MODELLI@DAO@.
 
 
+
+GIT
+	fare commit e push
+		git commit -m "agg" & git push
+
